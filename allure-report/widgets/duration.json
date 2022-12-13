@@ -1,0 +1,11 @@
+[ {
+  "uid" : "916cfa1592a4c6e2",
+  "name" : "Acessar o site do UOL via Google",
+  "time" : {
+    "start" : 1611705594103,
+    "stop" : 1611705608437,
+    "duration" : 14334
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

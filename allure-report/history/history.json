@@ -1,0 +1,32 @@
+{
+  "be778f0cec855abc1d96325d38ecde24" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    },
+    "items" : [ {
+      "uid" : "916cfa1592a4c6e2",
+      "reportUrl" : "http://localhost:8080/job/maven/5/allure/#testresult/916cfa1592a4c6e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1611705594103,
+        "stop" : 1611705608437,
+        "duration" : 14334
+      }
+    }, {
+      "uid" : "1d029efae3434f33",
+      "reportUrl" : "http://localhost:8080/job/maven/4/allure/#testresult/1d029efae3434f33",
+      "status" : "broken",
+      "statusDetails" : "session not created\nfrom timeout: Timed out receiving message from renderer: 600.000\n  (Session info: chrome=87.0.4280.141)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'CPX-RHP07MEXYHR', ip: '192.168.56.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_271'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: Backtrace:\n\tOrdinal0 [0x0069C0C3+3326147]\n\tOrdinal0 [0x00580851+2164817]\n\tOrdinal0 [0x00407298+619160]\n\tOrdinal0 [0x003FB17F+569727]\n\tOrdinal0 [0x003FA421+566305]\n\tOrdinal0 [0x003FA815+567317]\n\tOrdinal0 [0x003FA135+565557]\n\tOrdinal0 [0x004038B1+604337]\n\tOrdinal0 [0x003FA0F1+565489]\n\tOrdinal0 [0x003FAEA2+568994]\n\tOrdinal0 [0x003FA421+566305]\n\tOrdinal0 [0x003FA815+567317]\n\tOrdinal0 [0x003FA135+565557]\n\tOrdinal0 [0x00401D2C+597292]\n\tOrdinal0 [0x003FA0F1+565489]\n\tOrdinal0 [0x003FAEA2+568994]\n\tOrdinal0 [0x003FA421+566305]\n\tOrdinal0 [0x003FA815+567317]\n\tOrdinal0 [0x003FA135+565557]\n\tOrdinal0 [0x003FFE62+589410]\n\tOrdinal0 [0x003FA0F1+565489]\n\tOrdinal0 [0x003FAEA2+568994]\n\tOrdinal0 [0x003FA421+566305]\n\tOrdinal0 [0x003FA815+567317]\n\tOrdinal0 [0x003FA135+565557]\n\tOrdinal0 [0x003FF075+585845]\n\tOrdinal0 [0x003FA0F1+565489]\n\tOrdinal0 [0x003FAEA2+568994]\n\tOrdinal0 [0x003FA421+566305]\n\tOrdinal0 [0x003FA815+567317]\n\tOrdinal0 [0x003FA135+565557]\n\tOrdinal0 [0x003F6776+550774]\n\tOrdinal0 [0x003FA0F1+565489]\n\tOrdinal0 [0x003F9F13+565011]\n\tOrdinal0 [0x003F9D07+564487]\n\tOrdinal0 [0x004082C0+623296]\n\tOrdinal0 [0x003A6BDD+224221]\n\tOrdinal0 [0x003A5CAC+220332]\n\tOrdinal0 [0x003A189B+202907]\n\tOrdinal0 [0x00383DF4+81396]\n\tOrdinal0 [0x00384DEE+85486]\n\tOrdinal0 [0x00384D79+85369]\n\tOrdinal0 [0x005985DC+2262492]\n\tGetHandleVerifier [0x00822874+1487204]\n\tGetHandleVerifier [0x008223CD+1486013]\n\tGetHandleVerifier [0x0082A368+1518680]\n\tGetHandleVerifier [0x00822F4E+1488958]\n\tOrdinal0 [0x0058ED0D+2223373]\n\tOrdinal0 [0x0059A12B+2269483]\n\tOrdinal0 [0x0059A26F+2269807]\n\tOrdinal0 [0x005AECB8+2354360]\n\tBaseThreadInitThunk [0x765F6359+25]\n\tRtlGetAppContainerNamedObjectPath [0x772C8944+228]\n\tRtlGetAppContainerNamedObjectPath [0x772C8914+180]\n",
+      "time" : {
+        "start" : 1611704337638,
+        "stop" : 1611704942161,
+        "duration" : 604523
+      }
+    } ]
+  }
+}
